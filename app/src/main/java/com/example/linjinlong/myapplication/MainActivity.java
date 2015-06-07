@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.print("Git 使用终于算明白一点点了~~~~无语");
+        System.out.print("Git 二次元");
     }
 
     @Override
